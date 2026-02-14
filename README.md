@@ -3,7 +3,7 @@
 ##  Overview
 
 This repository contains a collection of structured embedded systems projects 
-developed for the Arduino Mega 2560 (ATmega2560) using PlatformIO.
+developed for the Arduino Mega 2560 using PlatformIO.
 
 The goal of this repository is to demonstrate:
 
