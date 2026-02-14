@@ -35,7 +35,6 @@ Each project contains:
 - Dedicated `main.cpp`
 - Configuration header
 - Optional simulation mode
-- Modular structure
 
 
 
