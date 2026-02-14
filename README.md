@@ -2,22 +2,12 @@
 
 ##  Overview
 
-This repository contains a collection of structured embedded systems projects 
+This repository contains a collection of embedded systems projects 
 developed for the Arduino Mega 2560 using PlatformIO.
-
-The goal of this repository is to demonstrate:
-
-- Modular embedded architecture
-- Hardware abstraction techniques
-- Finite State Machine (FSM) design
-- Sensor integration
-- Real-time logic
-- Clean build configuration using multiple PlatformIO environments
-- Simulation mode vs Hardware mode separation
 
 Each project is independent and buildable separately.
 
----
+
 
 ##  Development Environment
 
@@ -27,7 +17,7 @@ Each project is independent and buildable separately.
 - Language: C++
 - Toolchain: PlatformIO
 
----
+
 
 ##  Repository Structure
 
@@ -36,7 +26,7 @@ arduino-projects/
 │
 ├── platformio.ini
 ├── lib/                # Shared reusable modules
-├── projects/           # Independent embedded projects
+├── projects/           # Independent projects
 └── README.md
 ```
 
@@ -47,7 +37,7 @@ Each project contains:
 - Optional simulation mode
 - Modular structure
 
----
+
 
 ##  Projects Included
 
@@ -60,7 +50,7 @@ Each project contains:
 7. Traffic Light Controller 
 8. Wireless Communication System 
 
----
+
 
 ##  Build Instructions
 
